@@ -25,3 +25,4 @@ IP-CIDR,204.15.20.0/22,no-resolve
 # 内容：Bing
 DOMAIN-SUFFIX,bing.com
 DOMAIN-KEYWORD,newbing
+DOMAIN-KEYWORD,tiktok
